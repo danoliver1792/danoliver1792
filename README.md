@@ -1,7 +1,7 @@
 ### Olá mundo! Meu nome é Danrlei 😉
 
 - 🔭 trabalhando na área administrativa, entretanto, estudo análise e desenvolvimento de sistemas querendo entrar no mundo da TI
-- 🌱 Estudando HTML, CSS, JavaScript, React JS e Python
+- 🌱 Estudando HTML, CSS, JavaScript, React JS, PHP, MySQL e Python
 - 📫 contate-me pelo e-mail: danrleioliveira1792@gmail.com
 - ⚡ Fun fact: Sou carioca, cresci na Bahia e moro no Paraná 
 
