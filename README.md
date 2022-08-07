@@ -28,4 +28,3 @@
   <a href="https://wa.me/5541989025568" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-![DANRLEI](https://user-images.githubusercontent.com/99451711/170846501-6f1a3da3-98c8-4133-9c27-e8265c885a4d.png)
