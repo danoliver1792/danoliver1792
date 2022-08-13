@@ -2,7 +2,7 @@
 
 - 🔭 trabalhando na área administrativa, entretanto, estudo análise e desenvolvimento de sistemas querendo entrar no mundo da TI
 - 🌱 Estudando HTML, CSS, JavaScript, React JS, PHP, MySQL e Python
-- 📫 contate-me pelo e-mail: danrleioliveira1792@gmail.com
+- 📫 contato via e-mail: danrlei.jesus@hotmail.com
 - ⚡ Fun fact: Sou carioca, cresci na Bahia e moro no Paraná 
 
 <div align="center">
