@@ -1,10 +1,9 @@
 ## Hello World! My name is Danrlei 😉
 ### Welcome to my GitHub profile
 
-- 🔭 Sempre batalhei pelos meus objetivos, dedicado ao máximo para apresentar tarefas no prazo e com qualidade. Apaixonado pela Matemática e Computação, entrei no curso de análise e desenvolvimento de sistemas afim de novos desafios. Trabalho com metas, a principal é começar uma nova carreira na área de Dados. Além disso, espero crescer profissionalmente atribuindo experiência, responsabilidades e confiabilidade, com enfoque no trabalho em equipe e respeito ao próximo.
-- 🌱 Estudando para entrar na área de Dados 
-- 📫 contato via e-mail: danrlei.jesus@hotmail.com
-- ⚡ Fun fact: Sou carioca, cresci na Bahia e moro no Paraná 
+- 🔭 I have always fought for my goals, dedicating myself to the maximum to deliver tasks on time and with quality. Passionate about Mathematics and Computer Science, I joined the course of Systems Analysis and Development to pursue new challenges.
+- 🌱 I'm studying to become a software engineer.
+- 📫 e-mail: danrlei.jesus@hotmail.com
 
 <div align="center">
   <a href="https://github.com/danoliver1792">
@@ -29,5 +28,3 @@
   <a href="https://wa.me/5541992220452" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-### Contributions:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danoliver1792&bg_color=000000&color=ffffff&line=00992e&point=bffda5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
